@@ -14,18 +14,18 @@ Objective is to predict which passengers survived the Titanic disaster, using th
 
 1. The [titanic-model notebook](./titanic-model.ipynb) contains the traditional ML algorithms, closely following Sehgal's tutorial
 
-**Section 1.** Loading data and initial exploratory analysis
+   **Section 1.** Loading data and initial exploratory analysis
 
-**Section 2.** Pre-processing data / wrangling data
+   **Section 2.** Pre-processing data / wrangling data
 
-**Section 3.** Run models on dataset and evaluate
+   **Section 3.** Run models on dataset and evaluate
 
 2. The [titanic-NN notebook](./titanic-NN.ipynb) implements an L-layer neural network; it also performs stratified K-fold cross-validation, so we can evaluate the predictive behavior, instead of just scoring accuracy on the training set
 
-**Section 1.** Loading data and pre-processing data / wrangling data
+   **Section 1.** Loading data and pre-processing data / wrangling data
 
-**Section 2.** Run old models on dataset and evaluate
+   **Section 2.** Run old models on dataset and evaluate
 
-**Section 3.** Run L-layer NN on dataset and evaluate
+   **Section 3.** Run L-layer NN on dataset and evaluate
 
-**Section 4.** Implement cross-validation and run models again
+   **Section 4.** Implement cross-validation and run models again
